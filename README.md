@@ -21,4 +21,8 @@ knowledge of company and of the foundations of creating the website
 
 uesrs will beable to access the websites inforamtion anywhere if they have wifi and a devices that ueses 
 
+## Nature of interactivity
 
+
+
+## complexity of your website
