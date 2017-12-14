@@ -5,5 +5,10 @@
 2. Travelers
 3. Assisters 
 
-I am creating a website to present data for the list above. Within this website i am creating, there will be a number of differnt sections for the uesrs to browser 
+I am creating a website to present data for the list above. Within this website i am creating, there will be a number of differnt sections for the uesrs to browse around. 
+
+Im aiming to create a website
+
+knowledge of company and of the foundations of creating the website 
+
 
