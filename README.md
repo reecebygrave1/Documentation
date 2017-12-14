@@ -11,7 +11,7 @@ I am creating a website to present data for the list above. Within this website 
 
 ## What are you aiming to achieve
 
-Im aiming to create a website that presents inforamtion about camp china to people who are intrestend in wanting to participate with the camp
+Im aiming to create a website that presents inforamtion about camp china to people who are intrestend in wanting to participate with the camp. 
 
 ## constraints
 
