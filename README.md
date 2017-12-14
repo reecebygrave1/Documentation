@@ -15,9 +15,11 @@ Im aiming to create a website that presents inforamtion about camp china to peop
 
 ## constraints
 
-* Limited knowledge of css and js 
+* Knowledge of css and js 
 * The foundations champ china is. 
 * Time we have to complete the website in.   
+
+The reasons i have bulleted above are my constraints, they will limit my capability of sucsessfuly completing my wesbite to an acceptable standard.
 
 ## Benifits
 
